@@ -1,0 +1,11 @@
+1. Singleton, Factory (method, abstract)-->object
+
+Tự nghĩ ra bài toán để thực hành
+
+2. State, Decorator, Strategy
+
+Giải bằng 4 cách --> No Design Pattern, State, Decorator, Strategy
+
+Mỗi nhân viên của một tổ chức có một mức cơ bản cố định, ngoài ra, còn những thu nhập tăng thêm: phụ cấp thâm niên, phụ cấp Tiến sĩ, phụ cấp TK, Phụ cấp tổ Trưởng, Phụ cấp Trưởng Phòng...
+
+Hãy nhập vào một nhân viên + Nhập vào Chức vụ của nhân viên đó--> in ra thu nhập mà họ nhận được ( Lương cơ bản + Phụ Cấp Tiến sĩ)
